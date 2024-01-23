@@ -1,0 +1,5 @@
+tweet,sentiment
+"I love my new phone!",positive
+"The battery life is terrible.",negative
+"This laptop is okay.",neutral
+"I am crying",negative
