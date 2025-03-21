@@ -1,3 +1,8 @@
+11.Case study 1: Identify the sentiment of tweets
+In this problem, you are provided with tweet data to predict sentiment on electronic products of
+netizens
+
+
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
